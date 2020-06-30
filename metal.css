@@ -1,0 +1,45 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+h1{
+	font-family: 'Loved by the King', cursive;
+	color: red;
+}
+
+#rock-h2{
+	color: red
+}
+
+#rock-p{
+	color: green;
+}
+
+.my-container{
+	border: 1px solid red;
+}
+
+
+
+body{
+  /* The image used */
+  background-image: url("img_girl.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

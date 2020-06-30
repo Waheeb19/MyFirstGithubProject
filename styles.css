@@ -1,0 +1,48 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1{
+	font-family: 'Loved by the King', cursive;
+	color: red;
+}
+
+#rock-h2{
+	color: red
+}
+
+#rock-p{
+	color: green;
+}
+
+.aboutme{
+	font-family: 'Vesper Libre', serif;
+	color: red;
+	border-style: solid;
+}
+
+  
